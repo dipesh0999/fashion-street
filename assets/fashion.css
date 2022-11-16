@@ -514,6 +514,9 @@ a{
         font-size: 40px;
         line-height: 60px;
     }
+    .terms{
+        font-size: 23px;
+    }
     #fav{
         width: 100%;
         padding: 20px;

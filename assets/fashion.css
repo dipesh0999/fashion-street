@@ -432,6 +432,9 @@ a{
     .bars{
         display: block;
     }
+    .bar{
+        color: black;
+    }
     .fs-logo{
         display: none;
     }
@@ -631,3 +634,4 @@ a{
         border-bottom: 2px solid  #8E8E8E;
         padding-bottom: 20px;
     }
+}
